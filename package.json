@@ -1,0 +1,14 @@
+{
+  "name": "simple-typescript-blockchain",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/code-hubio/simple-typescript-blockchain.git",
+  "author": "code-hub.io",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon dist/app.js"
+  },
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
